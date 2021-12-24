@@ -1,3 +1,3 @@
-# RDDcat.github.io
+# dev blog
 
-# This site Goal is to make cool portfolio!
+# 
