@@ -1,5 +1,5 @@
 <!-- 배너 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=wave)
+<!-- ![header](https://capsule-render.vercel.app/api?type=wave) -->
 
 
 
