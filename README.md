@@ -1,6 +1,7 @@
 <!-- 배너 헤더 -->
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave) -->
 
+<p><a href="https://rddcat.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
 
 
 <!-- 유저 스탯 -->
